@@ -4,5 +4,5 @@ and the Windows device program simulates and generates mouse and keyboard inputs
 potentiometerRotation.ino is the arduino side code when you connect the potentiometer as your rotating component.
 rotary_encoder.ino is the Arduino code when you connect the rotary encoder as your rotary component.
 
-It's worth noting that most modern games (like HALO) automatically return to the correct direction, 
-so even with this project, it's difficult to achieve a realistic driving simulation, even though that was the original vision of the project.
+It is worth noting that most modern games (such as HALO) will automatically correct the direction while driving, 
+so even with this project, it is difficult to use it to achieve a realistic driving simulation, although this was the original vision of this project.
