@@ -6,7 +6,7 @@ rotary_encoder.ino is the Arduino code when you connect the rotary encoder as yo
 
 It is worth noting that most modern games (such as HALO) will automatically correct the direction while driving, 
 so even with this project, it is difficult to use it to achieve a realistic driving simulation, although this was the original vision of this project.
-##installation
+
 1. Clone the repository:git clone https://github.com/Lorentzoforce/SerialCommunicationWindow .git
 2. Open the solution file (.sln) in Visual Studio 2022.
 3. Compile and run the project.
